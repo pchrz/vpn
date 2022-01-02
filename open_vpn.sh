@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo openvpn --config /home/pch/VPN/NewYork.ovpn --auth-user-pass /home/pch/pass 
+sudo openvpn --config /home/your_dir/VPN/NewYork.ovpn --auth-user-pass /home/your_dir/pass 
