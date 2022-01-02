@@ -1,2 +1,2 @@
 # vpn
-bash vpn script
+Simple BASH script to start and run your VPN .ovpn files. 
