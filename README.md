@@ -1,8 +1,8 @@
 # vpn
 Simple BASH script to start and run your VPN .ovpn files. 
 
-Only to be run on Linux/Unix systems
-Pre-Req
+Only to be run on Linux/Unix systems\
+Pre-Req\
 1.) Ensure you have openvpn installed. It's found in most standard repo's.
 _____________
 
