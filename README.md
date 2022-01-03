@@ -7,7 +7,7 @@ Pre-Req\
 
 2.) Create username/password file. First line username and Second line password. See pass file for an example.
 
-3.) Run sudo chmod +x vpn.sh
+3.) Run sudo chmod +x vpn.sh to make the bash script executable.
 _____________
 
 # Add BASH command 
