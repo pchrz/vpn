@@ -5,11 +5,7 @@ Only to be run on Linux/Unix systems\
 Pre-Req\
 1.) Ensure you have openvpn installed. It's found in most standard repo's.
 
-2.) Create username/password file. First line username and Second line password.
-
-ex.
-	username
-	password
+2.) Create username/password file. First line username and Second line password.see pass file for an example.
 
 3.) Run sudo chmod +x vpn.sh
 _____________
