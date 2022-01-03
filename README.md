@@ -4,6 +4,11 @@ Simple BASH script to start and run your VPN .ovpn files.
 Only to be run on Linux/Unix systems\
 Pre-Req\
 1.) Ensure you have openvpn installed. It's found in most standard repo's.
+2.) Create username/password file. First line username and Second line password.
+ex.
+>username
+>password
+3.) Run sudo chmod +x vpn.sh
 _____________
 
 # Add BASH command 
@@ -13,4 +18,4 @@ vim ~/.bashrc
 
 Then add with your other aliases or at the bottom of the file.
 
-alias vpn='sudo /home/your_dir/./open_vpn.sh'
+alias vpn='sudo /home/your_dir/./vpn.sh'
